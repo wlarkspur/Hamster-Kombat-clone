@@ -9,7 +9,6 @@ import {
   dollarCoin,
   hamsterCoin,
   idoncare,
-  mainCharacter,
 } from "./images";
 import Info from "./icons/Info";
 import Settings from "./icons/Settings";
