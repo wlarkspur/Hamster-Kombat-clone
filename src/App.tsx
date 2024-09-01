@@ -8,8 +8,8 @@ import {
   dailyReward,
   dollarCoin,
   hamsterCoin,
+  idoncare,
   mainCharacter,
-  polina,
 } from "./images";
 import Info from "./icons/Info";
 import Settings from "./icons/Settings";
@@ -263,8 +263,8 @@ function App() {
               >
                 <div className=" circle-inner rounded-full w-full h-full">
                   <img
-                    src={polina}
-                    alt="polina"
+                    src={idoncare}
+                    alt="main char"
                     className="w-[200px] h-[200px]"
                   />
                 </div>

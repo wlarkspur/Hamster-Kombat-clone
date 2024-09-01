@@ -6,7 +6,7 @@ import dailyCipher from "./daily-cipher.png";
 import dailyCombo from "./daily-combo.png";
 import mainCharacter from "./main-character.png";
 import hamsterCoin from "./hamster-coin.png";
-import polina from "./Polina.png";
+import idoncare from "./idoncare.png";
 
 export {
   hamsterExchange,
@@ -17,5 +17,5 @@ export {
   dailyCombo,
   mainCharacter,
   hamsterCoin,
-  polina,
+  idoncare,
 };

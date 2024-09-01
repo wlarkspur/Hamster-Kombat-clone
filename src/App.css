@@ -32,7 +32,7 @@
 }
 
 .circle-outer {
-  background: linear-gradient(to bottom, #d157ef, #48658d);
+  background: linear-gradient(to bottom, #a87777, #3b2c2c);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -42,7 +42,7 @@
   max-height: 360px;
 }
 .circle-inner {
-  background: radial-gradient(circle, #7c4a83, #4b5777);
+  background: radial-gradient(circle, #ffffff, #925e5e);
   display: flex;
   align-items: center;
   justify-content: center;
